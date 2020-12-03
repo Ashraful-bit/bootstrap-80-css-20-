@@ -1,0 +1,45 @@
+.navbar { background:black; color: #fff; }
+.navbar ul li { padding-right: 20px;text-transform: uppercase; }
+.as-1 { height: 80vh; }
+.as-2 .fa { font-size: 50px; }
+.as-3 { background:linear-gradient(rgba(0, 151, 230,0.5),rgba(0, 151, 230,0.5)), url('img/as (9).jpg');
+background-attachment: fixed; background-position: center; background-size: cover; color: #fff;}
+.as-max { margin-bottom: 90px; }
+.as-4 { margin-top: 50px; margin-bottom: 50px; }
+.as-5 { margin-top: 70px; }
+.as-6 { background:linear-gradient(rgba(236, 240, 241,0.7),rgba(236, 240, 241,0.7)), url('img/as (1).jpg'); background-position: center; background-attachment: fixed;
+background-size: cover; padding-top: 50px;padding-bottom: 50px;}
+.faaa .fa{ font-size: 70px; color:red; margin-bottom: 20px;}
+.fa:hover { color: #00a8ff; }
+.as-9 img {height: 250px; border-radius: 5px; }
+.as-12 h2 { color: #fff; }
+.as-13 { color: #fff; margin-top: 20px;}
+.as-14 { background: black; }
+.as-15 { color: #fff; background:linear-gradient(rgba(45, 52, 54,0.7),rgba(45, 52, 54,0.7)), 
+url('img/gg (9).jpg'); background-position: center; background-size: cover; background-attachment: fixed; }
+.as-15 h2 { color: #fff; }
+.as-16 { border-radius: 50%; height:350px; max-width: 350px;}
+.as-17 .fa { font-size: 50px; }
+.as-18 { background:#6c5ce7; }
+.as-19 { background:#2d3436; }
+.as-20 { background:#00b894; }
+.as-21 { background:#e1b12c; }
+.as-22 { background:#44bd32; }
+.as-23 { background:#192a56; }
+.slick-prev::before,.slick-next::before {color: black}
+.as-24 { color: #fff; background:linear-gradient(rgba(45, 52, 54,0.7),rgba(45, 52, 54,0.7)), 
+url('img/gg (18).jpg'); background-position: center; background-size: cover; background-attachment: fixed; }
+.as-24 h2 { color: #fff; }
+.as-25 .fa{ margin-right:  10px; }
+.as-26 { color: black; }
+.as-27 h2 { color: #fff;}
+.as-28 { color: #fff; background:linear-gradient(rgba(45, 52, 54,0.7),rgba(45, 52, 54,0.7)), 
+url('img/gg (19).jpg'); background-position: center; background-size: cover; background-attachment: fixed; }
+.as-28 h2 { color: #fff; }
+.as-29 { color: #fff; background:linear-gradient(rgba(45, 52, 54,0.7),rgba(45, 52, 54,0.7)), 
+url('img/as (10).jpg'); background-position: center; background-size: cover; background-attachment: fixed; }
+.as-29 h2 { color: #fff; }
+.as-30 { max-width: 484px; margin: auto; margin-bottom: 20px;}
+.as-31 { margin-top: 20px; }
+::placeholder { color:#2ecc71!important}
+
